@@ -1,0 +1,29 @@
+body{
+    padding-left: 10px;
+    background-color: white;
+    font-weight: 100;
+}
+
+.main {
+    background-image: url("https://cdn.dribbble.com/users/559871/screenshots/16830577/media/19f3964930838c29f823dea78617a954.png?compress=1&resize=400x300&vertical=top");
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+button {
+    font-family: cursive;
+    font-weight: 900;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.scroll {
+    background-image: url("https://logopoppin.com/wp-content/uploads/2021/08/Super-heroes-logo.png");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
